@@ -17,15 +17,20 @@ A Python-based portfolio optimization tool that uses historical stock return dat
  Final Portfolio Metrics:
 
  Expected Annual Return: 18.73%
+
  Expected Annual Volatility: 20.51%
+
  Sharpe Ratio: 0.69
+
  Risk-Free Rate: 4.49%
 
 
 For the optimal risk-return tradeoff, you should invest:
 
  16.28% of your portfolio in BA [Buy $1628.00 of BA]
+
  27.34% of your portfolio in LMT [Buy $2734.00 of LMT]
+
  56.38% of your portfolio in NOC [Buy $5638.00 of NOC]
 
 
