@@ -108,4 +108,6 @@ for i in range(stockcount):
         print(" " + str(weight) + "% of your portfolio in " + stocklist[i] + (" [Buy $" + str(dollarweight)) + " of " + stocklist[i] + "]")
     else:
         print(str(weight) + "% of your portfolio in " + stocklist[i] + " [Short $" + str(-dollarweight) + " of " + stocklist[i] + "]")
+
+print("\n\nThis is an educational program that utilizes historical returns, and should not be taken as a financial recommendation or suggestion.")
 print("\n")
